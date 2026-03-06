@@ -8,7 +8,7 @@ Power BI Desktop — Interactive dashboard and visualizations
 
 Dataset
 Self-created realistic dataset simulating a Bangalore pet hospital with:
-TableRecordsDescriptionowners150Pet owners across Bangalore areaspatients200Pets (dogs, cats, rabbits, parrots etc.)doctors6Doctors with specializationstreatments14Treatments with pricesvisits600Hospital visits (2023-2024)
+TableRecordsDescriptionowners 150 Pet owners across Bangalore areaspatients 200 Pets (dogs, cats, rabbits, parrots etc.)doctors6Doctors with specializations treatments 14 Treatments with pricesvisits 600 Hospital visits (2023-2024)
 SQL Analysis
 Key queries written to extract business insights:
 
