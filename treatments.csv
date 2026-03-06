@@ -1,0 +1,15 @@
+treatment_id,treatment_name,price
+1,General Checkup,500
+2,Vaccination,800
+3,Deworming,400
+4,Skin Treatment,1200
+5,Dental Cleaning,1500
+6,Minor Surgery,3500
+7,Major Surgery,8000
+8,X-Ray,1000
+9,Blood Test,700
+10,Grooming,600
+11,Nutrition Consultation,500
+12,Eye Treatment,900
+13,Ear Cleaning,450
+14,Emergency Care,2500

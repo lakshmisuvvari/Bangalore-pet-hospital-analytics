@@ -1,0 +1,601 @@
+visit_id,patient_id,doctor_id,treatment_id,visit_date,amount_paid,payment_mode,notes
+1,131,2,2,2023-07-25,800,UPI,Emergency
+2,7,3,9,2024-08-09,700,Net Banking,Referred by another vet
+3,34,5,2,2023-03-09,800,Net Banking,Emergency
+4,135,4,13,2024-02-24,500,Cash,Vaccination due
+5,82,6,2,2024-04-05,800,Card,Vaccination due
+6,200,5,11,2024-08-24,500,UPI,Annual checkup
+7,129,1,14,2023-05-08,2550,UPI,Post surgery checkup
+8,43,2,6,2024-12-27,3500,Card,Referred by another vet
+9,73,1,5,2023-07-21,1600,Card,Vaccination due
+10,161,3,10,2024-06-30,550,UPI,Vaccination due
+11,44,6,10,2024-09-11,600,Cash,Routine visit
+12,21,1,11,2024-08-13,500,UPI,Annual checkup
+13,159,6,1,2024-05-24,600,Card,Post surgery checkup
+14,124,2,13,2024-12-02,450,Card,Emergency
+15,19,6,1,2023-06-11,500,Net Banking,Emergency
+16,119,2,6,2024-09-13,3500,Card,First visit
+17,188,3,7,2023-05-14,8000,Cash,First visit
+18,62,4,2,2023-10-01,800,UPI,Vaccination due
+19,25,1,5,2024-01-29,1550,Net Banking,Owner concerned about appetite
+20,41,3,10,2023-11-17,600,UPI,Emergency
+21,132,4,8,2023-11-12,1000,Cash,Follow-up
+22,101,5,8,2023-09-04,1000,Card,Routine visit
+23,13,3,8,2024-09-03,1100,Net Banking,Post surgery checkup
+24,138,1,14,2023-04-21,2500,UPI,Post surgery checkup
+25,187,3,13,2024-02-17,450,Cash,Annual checkup
+26,14,5,9,2023-07-19,700,Card,Follow-up
+27,99,5,8,2024-07-17,1000,Cash,Vaccination due
+28,25,4,6,2023-12-14,3550,Card,Vaccination due
+29,51,5,9,2024-02-16,750,Cash,Routine visit
+30,10,2,12,2023-12-08,900,Net Banking,Vaccination due
+31,156,5,3,2023-12-02,450,Card,Vaccination due
+32,101,5,12,2023-11-03,950,Card,Referred by another vet
+33,131,5,8,2024-12-26,1050,Card,Emergency
+34,5,3,6,2024-11-20,3450,Net Banking,Post surgery checkup
+35,186,6,11,2023-01-28,550,Net Banking,Post surgery checkup
+36,168,5,10,2023-08-22,700,Cash,Emergency
+37,44,5,11,2024-09-26,500,UPI,Owner concerned about appetite
+38,9,5,12,2023-04-23,900,Cash,Emergency
+39,81,4,3,2024-02-27,500,UPI,Annual checkup
+40,129,5,8,2023-03-05,1100,UPI,Referred by another vet
+41,54,5,6,2024-11-09,3500,Net Banking,First visit
+42,45,4,9,2023-12-17,750,Card,Post surgery checkup
+43,157,4,4,2023-09-10,1200,Card,Owner concerned about appetite
+44,77,3,12,2023-08-01,1000,Net Banking,First visit
+45,123,3,9,2023-10-08,700,Cash,Referred by another vet
+46,98,4,14,2023-12-20,2500,Card,Routine visit
+47,74,6,2,2023-12-21,800,Card,Emergency
+48,55,2,14,2024-07-05,2500,Card,Vaccination due
+49,28,5,12,2024-08-23,900,UPI,Routine visit
+50,172,5,4,2024-10-15,1200,Cash,Follow-up
+51,106,3,12,2024-04-28,850,UPI,Routine visit
+52,141,2,7,2024-10-30,8000,Net Banking,Owner concerned about appetite
+53,194,3,6,2023-10-20,3600,Cash,Follow-up
+54,167,5,4,2024-07-01,1300,Cash,Vaccination due
+55,107,2,1,2024-02-11,500,UPI,Post surgery checkup
+56,10,1,5,2024-08-04,1550,Cash,First visit
+57,73,4,11,2024-07-10,550,Net Banking,Vaccination due
+58,130,4,5,2023-07-17,1450,Card,Vaccination due
+59,188,4,11,2023-09-21,600,UPI,Routine visit
+60,189,3,13,2023-10-30,500,UPI,Vaccination due
+61,157,6,7,2024-03-13,8050,Card,Follow-up
+62,103,6,2,2023-07-09,800,Net Banking,First visit
+63,64,1,5,2024-01-28,1500,Net Banking,Post surgery checkup
+64,85,3,10,2024-08-09,550,Card,First visit
+65,178,2,1,2024-11-14,450,Net Banking,Post surgery checkup
+66,41,4,11,2024-05-29,600,Card,Follow-up
+67,164,3,6,2024-09-21,3500,UPI,Vaccination due
+68,123,2,8,2024-09-12,1000,Net Banking,Referred by another vet
+69,121,5,13,2024-11-11,450,UPI,Follow-up
+70,135,4,9,2024-12-21,700,Cash,Follow-up
+71,16,5,9,2023-07-27,750,UPI,Vaccination due
+72,84,5,8,2023-04-30,1100,UPI,Emergency
+73,24,5,8,2023-02-26,1000,UPI,Referred by another vet
+74,107,4,10,2023-03-01,650,Net Banking,Post surgery checkup
+75,186,1,7,2023-09-18,7950,UPI,Follow-up
+76,12,4,6,2024-12-18,3450,Cash,Follow-up
+77,121,1,5,2024-02-23,1500,UPI,Annual checkup
+78,96,4,8,2024-01-22,1000,Cash,Referred by another vet
+79,35,6,14,2023-12-23,2450,UPI,Referred by another vet
+80,101,5,3,2023-08-17,350,Cash,Post surgery checkup
+81,119,6,12,2024-07-11,900,Net Banking,Owner concerned about appetite
+82,64,4,6,2023-06-08,3500,UPI,Follow-up
+83,9,6,7,2024-09-21,7950,UPI,Owner concerned about appetite
+84,18,1,10,2023-02-04,600,Cash,Owner concerned about appetite
+85,190,1,7,2024-03-25,8000,UPI,Routine visit
+86,36,5,5,2023-08-28,1600,Card,First visit
+87,61,3,3,2024-11-07,450,UPI,Annual checkup
+88,77,3,1,2024-07-24,550,UPI,Annual checkup
+89,143,4,1,2023-12-19,600,Net Banking,Referred by another vet
+90,82,6,7,2024-02-23,8000,Card,Annual checkup
+91,48,5,8,2023-09-04,1000,Card,Vaccination due
+92,119,1,9,2024-02-27,700,UPI,Annual checkup
+93,63,3,4,2023-12-05,1300,Cash,Emergency
+94,95,1,9,2023-07-15,650,Card,Annual checkup
+95,173,5,10,2023-02-10,550,UPI,Referred by another vet
+96,56,4,4,2023-12-07,1200,Cash,Owner concerned about appetite
+97,49,6,2,2024-05-05,800,UPI,Annual checkup
+98,62,5,6,2023-10-17,3500,Net Banking,Referred by another vet
+99,167,3,5,2023-09-25,1500,Net Banking,Emergency
+100,26,6,8,2023-11-24,1000,Card,First visit
+101,106,1,10,2023-08-15,700,UPI,Routine visit
+102,67,5,10,2024-08-16,700,Net Banking,Post surgery checkup
+103,40,2,6,2023-08-24,3500,UPI,Emergency
+104,141,6,11,2023-12-12,500,Net Banking,Emergency
+105,118,2,12,2023-12-27,900,UPI,Referred by another vet
+106,126,2,9,2024-10-19,650,Cash,Follow-up
+107,172,1,13,2023-01-07,450,UPI,Owner concerned about appetite
+108,18,6,3,2023-01-10,400,Net Banking,First visit
+109,16,5,11,2024-11-13,550,Net Banking,Emergency
+110,5,1,9,2024-07-18,700,Cash,Routine visit
+111,136,6,5,2024-07-02,1500,Cash,Referred by another vet
+112,179,6,7,2023-07-03,7950,Cash,Referred by another vet
+113,39,2,4,2024-09-26,1250,Card,First visit
+114,69,4,2,2024-01-18,800,Net Banking,Owner concerned about appetite
+115,179,2,5,2024-12-01,1450,Cash,Follow-up
+116,104,4,7,2024-07-19,8000,Cash,Routine visit
+117,180,2,2,2024-05-26,800,Card,Follow-up
+118,136,1,4,2023-08-05,1300,Net Banking,Post surgery checkup
+119,12,1,11,2023-10-15,550,Cash,Vaccination due
+120,81,1,4,2024-08-24,1200,Net Banking,Follow-up
+121,77,2,10,2023-09-04,650,Net Banking,Referred by another vet
+122,85,4,13,2023-05-24,550,Cash,Referred by another vet
+123,191,3,1,2023-04-11,500,UPI,Follow-up
+124,88,5,13,2024-09-20,500,Net Banking,First visit
+125,8,6,5,2024-04-06,1500,UPI,First visit
+126,142,4,7,2023-07-10,8100,Net Banking,Follow-up
+127,198,5,5,2023-09-10,1600,Cash,Follow-up
+128,69,2,7,2024-12-29,8100,UPI,Annual checkup
+129,82,3,2,2023-04-04,750,Card,Emergency
+130,93,3,2,2023-05-16,750,UPI,Annual checkup
+131,115,5,9,2024-06-08,700,Cash,Routine visit
+132,23,3,9,2023-04-06,750,Card,Annual checkup
+133,4,3,7,2024-02-02,7950,UPI,Referred by another vet
+134,44,6,7,2023-06-23,8000,Card,Post surgery checkup
+135,69,4,3,2023-03-06,400,Net Banking,Post surgery checkup
+136,108,3,8,2023-03-20,1000,Card,Owner concerned about appetite
+137,185,6,8,2024-08-31,1050,UPI,Emergency
+138,28,2,5,2023-01-07,1500,Card,Annual checkup
+139,85,4,6,2024-03-16,3600,UPI,Post surgery checkup
+140,83,5,12,2023-07-25,900,Card,Vaccination due
+141,102,3,5,2024-12-12,1600,Net Banking,Owner concerned about appetite
+142,84,4,5,2024-02-07,1500,Cash,Owner concerned about appetite
+143,152,5,3,2024-11-29,450,Cash,Emergency
+144,182,2,8,2023-10-26,1100,Cash,Annual checkup
+145,173,4,3,2024-10-10,400,UPI,Post surgery checkup
+146,169,2,12,2024-03-09,900,Cash,Emergency
+147,154,4,10,2024-02-15,650,Net Banking,Referred by another vet
+148,10,3,12,2024-07-03,950,Cash,Follow-up
+149,197,2,11,2024-11-11,500,UPI,Routine visit
+150,145,6,11,2024-10-24,500,Card,Annual checkup
+151,28,1,2,2023-09-22,800,UPI,Emergency
+152,96,4,8,2024-11-26,1050,UPI,First visit
+153,7,4,2,2023-10-30,800,Cash,Follow-up
+154,187,2,6,2023-11-16,3500,Net Banking,Owner concerned about appetite
+155,134,4,6,2024-05-02,3450,Net Banking,Emergency
+156,82,1,5,2023-02-15,1600,Cash,Routine visit
+157,88,6,2,2024-11-24,800,UPI,Referred by another vet
+158,45,5,3,2023-12-05,450,Net Banking,Emergency
+159,60,4,11,2023-07-08,500,Net Banking,Annual checkup
+160,8,6,10,2023-07-22,600,Net Banking,Annual checkup
+161,2,6,4,2023-07-30,1200,Cash,Follow-up
+162,138,2,6,2023-11-30,3500,Net Banking,Follow-up
+163,68,6,14,2024-05-16,2550,Card,Annual checkup
+164,157,4,10,2023-04-27,600,Card,Emergency
+165,159,2,14,2024-11-20,2600,Card,Follow-up
+166,173,2,6,2023-05-01,3500,Card,Follow-up
+167,47,3,12,2023-05-25,950,Net Banking,Annual checkup
+168,153,2,10,2024-01-28,600,UPI,Emergency
+169,163,5,12,2024-10-22,900,UPI,Emergency
+170,74,2,3,2023-11-19,400,Cash,First visit
+171,3,4,3,2023-07-19,400,Net Banking,Annual checkup
+172,176,4,7,2024-12-28,8000,Net Banking,Vaccination due
+173,22,5,1,2023-08-14,500,Cash,Post surgery checkup
+174,58,5,5,2023-06-22,1500,Net Banking,Referred by another vet
+175,131,1,10,2023-04-27,600,Card,Referred by another vet
+176,194,1,13,2024-03-27,500,UPI,Annual checkup
+177,27,6,14,2024-10-31,2500,Card,Routine visit
+178,116,3,6,2023-03-31,3500,Cash,Owner concerned about appetite
+179,54,6,10,2024-12-06,600,Net Banking,Vaccination due
+180,158,2,13,2023-07-31,450,Cash,First visit
+181,137,3,10,2024-07-05,600,Card,Post surgery checkup
+182,75,5,5,2024-06-10,1600,Cash,Vaccination due
+183,193,4,1,2023-10-11,600,UPI,Vaccination due
+184,64,2,12,2023-11-26,900,Net Banking,Emergency
+185,37,5,11,2023-10-03,600,Net Banking,Annual checkup
+186,116,1,11,2023-04-06,500,Card,First visit
+187,117,4,6,2024-08-18,3450,Cash,Emergency
+188,163,6,12,2024-01-02,850,Net Banking,Owner concerned about appetite
+189,110,2,8,2023-10-02,1000,Card,First visit
+190,141,5,3,2024-08-02,400,Card,Routine visit
+191,12,1,11,2024-04-15,450,Cash,Vaccination due
+192,113,4,1,2024-03-14,500,UPI,Post surgery checkup
+193,41,3,2,2024-11-01,800,Card,Follow-up
+194,96,6,11,2023-06-19,450,Net Banking,Post surgery checkup
+195,186,6,13,2023-08-28,450,Cash,Follow-up
+196,1,2,8,2023-03-21,1000,UPI,Referred by another vet
+197,175,4,1,2023-01-09,600,Card,Follow-up
+198,109,6,3,2024-05-04,350,UPI,Annual checkup
+199,23,6,13,2023-04-15,400,Card,First visit
+200,77,2,7,2023-05-17,8100,UPI,Follow-up
+201,136,5,1,2024-09-16,600,UPI,Emergency
+202,90,6,4,2024-10-05,1300,UPI,Annual checkup
+203,158,6,8,2023-08-11,950,Cash,Vaccination due
+204,193,1,10,2024-01-29,600,Net Banking,First visit
+205,36,2,5,2024-10-22,1450,UPI,Referred by another vet
+206,154,5,12,2024-09-14,900,Cash,Post surgery checkup
+207,53,5,10,2024-06-05,600,Net Banking,Post surgery checkup
+208,166,1,13,2023-09-03,450,Net Banking,Follow-up
+209,62,4,11,2024-08-31,450,Cash,First visit
+210,82,2,7,2024-08-05,8000,Card,Referred by another vet
+211,175,2,13,2024-04-27,400,Cash,Follow-up
+212,4,3,4,2023-02-10,1150,Net Banking,Referred by another vet
+213,74,6,12,2024-05-28,900,Net Banking,Annual checkup
+214,22,6,9,2024-07-04,750,UPI,Post surgery checkup
+215,22,3,2,2024-06-07,800,UPI,Referred by another vet
+216,84,4,10,2024-10-11,700,Cash,Post surgery checkup
+217,179,4,12,2023-09-02,850,UPI,Follow-up
+218,112,1,8,2024-09-18,1050,Cash,Post surgery checkup
+219,171,6,11,2023-06-29,450,Cash,Vaccination due
+220,180,1,3,2024-05-23,400,Card,Vaccination due
+221,96,2,12,2023-10-03,1000,Cash,Routine visit
+222,86,4,5,2024-06-20,1450,Card,Follow-up
+223,128,4,9,2024-01-04,650,Net Banking,Vaccination due
+224,95,2,5,2023-04-16,1550,Cash,Owner concerned about appetite
+225,190,5,1,2023-02-15,450,UPI,Routine visit
+226,121,3,7,2023-06-03,8000,Cash,Referred by another vet
+227,183,6,11,2024-03-05,500,Card,Owner concerned about appetite
+228,107,6,6,2023-10-05,3450,Card,Follow-up
+229,129,6,1,2023-07-03,500,Cash,Annual checkup
+230,18,4,14,2023-10-17,2500,Card,Follow-up
+231,142,4,1,2024-01-13,500,Card,Post surgery checkup
+232,190,5,4,2024-04-20,1200,Net Banking,Owner concerned about appetite
+233,188,5,13,2023-09-09,450,Cash,Annual checkup
+234,7,2,9,2023-12-21,800,Cash,First visit
+235,1,6,7,2023-11-11,7950,UPI,Referred by another vet
+236,61,4,8,2023-03-03,1000,Card,Follow-up
+237,12,2,14,2024-06-16,2500,Card,Emergency
+238,192,1,10,2023-04-08,650,UPI,Annual checkup
+239,20,5,10,2023-03-05,600,UPI,Owner concerned about appetite
+240,75,3,14,2023-11-19,2500,Card,First visit
+241,116,3,4,2023-03-18,1200,UPI,Follow-up
+242,40,1,3,2024-04-05,400,Card,Annual checkup
+243,31,5,6,2023-08-01,3500,Card,Emergency
+244,68,1,2,2023-06-11,900,Card,Routine visit
+245,56,3,3,2023-04-04,500,UPI,First visit
+246,102,5,1,2024-11-24,500,Card,Vaccination due
+247,8,4,14,2024-04-08,2550,UPI,Follow-up
+248,119,1,13,2023-05-24,400,Cash,Routine visit
+249,200,2,3,2023-07-22,400,Card,Follow-up
+250,150,5,5,2023-03-18,1450,Cash,Owner concerned about appetite
+251,166,4,13,2023-05-12,400,Card,Follow-up
+252,11,4,1,2023-06-22,550,Net Banking,Annual checkup
+253,128,1,7,2024-11-30,8000,UPI,First visit
+254,55,2,5,2023-10-14,1500,UPI,Routine visit
+255,158,5,10,2023-09-09,700,Card,Emergency
+256,106,5,8,2023-03-04,950,Card,Annual checkup
+257,36,4,4,2024-10-20,1250,UPI,Referred by another vet
+258,5,4,13,2024-12-31,450,Net Banking,Referred by another vet
+259,125,3,10,2024-05-29,600,Net Banking,Post surgery checkup
+260,47,1,6,2024-09-03,3500,Cash,Post surgery checkup
+261,15,4,9,2024-01-02,750,UPI,Vaccination due
+262,26,2,11,2023-09-04,500,Cash,Owner concerned about appetite
+263,148,4,6,2023-06-27,3500,UPI,First visit
+264,189,6,6,2024-08-28,3450,Card,Vaccination due
+265,145,2,14,2024-05-19,2550,Card,Vaccination due
+266,126,1,2,2023-02-27,800,UPI,Routine visit
+267,135,4,1,2023-12-06,550,UPI,Vaccination due
+268,88,6,3,2023-11-28,350,Cash,Vaccination due
+269,151,6,3,2023-04-24,450,Card,Follow-up
+270,96,6,11,2024-02-10,550,Cash,First visit
+271,78,3,3,2023-06-11,500,Net Banking,Emergency
+272,167,3,3,2024-12-25,450,Card,Owner concerned about appetite
+273,171,5,14,2023-06-29,2500,Card,Post surgery checkup
+274,33,2,12,2023-01-02,1000,Net Banking,Routine visit
+275,47,5,6,2024-09-18,3500,Cash,Emergency
+276,37,3,12,2023-03-21,900,Card,First visit
+277,43,6,2,2024-12-26,900,Card,Emergency
+278,3,3,4,2023-09-13,1300,Cash,First visit
+279,66,1,12,2023-01-02,850,Net Banking,Emergency
+280,188,4,3,2024-02-28,400,Net Banking,First visit
+281,140,4,2,2024-05-05,850,UPI,Vaccination due
+282,116,1,13,2023-02-04,450,Cash,First visit
+283,67,1,2,2023-12-17,800,Net Banking,Vaccination due
+284,188,1,9,2023-04-06,700,Net Banking,Routine visit
+285,111,6,3,2024-09-13,400,UPI,Routine visit
+286,26,3,4,2023-07-14,1200,Card,Post surgery checkup
+287,77,2,2,2023-02-20,800,Net Banking,Vaccination due
+288,14,3,1,2024-03-13,450,Card,Emergency
+289,52,1,1,2023-07-31,500,Card,Follow-up
+290,122,1,5,2024-02-12,1500,Net Banking,Post surgery checkup
+291,24,6,9,2024-02-01,700,Card,Annual checkup
+292,95,2,8,2023-02-15,1000,Net Banking,Emergency
+293,68,2,14,2023-10-03,2550,Cash,Vaccination due
+294,193,6,11,2023-04-10,450,Card,Referred by another vet
+295,106,5,4,2024-07-20,1150,Net Banking,Referred by another vet
+296,108,5,11,2024-05-01,550,UPI,Emergency
+297,77,1,7,2023-02-05,8050,UPI,Follow-up
+298,194,4,3,2023-06-21,400,UPI,Vaccination due
+299,11,4,2,2024-11-30,800,UPI,Vaccination due
+300,153,3,6,2023-03-10,3450,Net Banking,Referred by another vet
+301,102,5,6,2023-10-10,3550,Net Banking,Routine visit
+302,180,5,10,2024-06-19,600,Cash,Annual checkup
+303,39,2,10,2024-08-25,650,Cash,Follow-up
+304,145,1,13,2023-10-20,500,Card,Annual checkup
+305,68,4,11,2024-05-12,550,Net Banking,Routine visit
+306,45,3,7,2023-05-28,8050,Net Banking,Routine visit
+307,102,3,12,2023-09-01,850,Net Banking,Post surgery checkup
+308,96,1,6,2023-11-07,3500,Card,Emergency
+309,179,6,2,2023-08-22,800,Card,Emergency
+310,199,3,5,2024-03-02,1550,Cash,Owner concerned about appetite
+311,114,2,14,2024-02-21,2600,Net Banking,Referred by another vet
+312,96,1,9,2023-06-12,650,Card,Referred by another vet
+313,104,2,13,2024-06-20,500,Cash,Vaccination due
+314,50,2,14,2023-03-01,2500,Cash,Emergency
+315,13,3,12,2023-07-23,900,Card,Emergency
+316,130,4,11,2023-05-07,600,Cash,Owner concerned about appetite
+317,96,4,10,2024-04-01,600,Net Banking,Referred by another vet
+318,90,3,3,2023-09-22,500,Cash,Post surgery checkup
+319,8,4,1,2023-06-16,550,UPI,Owner concerned about appetite
+320,166,2,11,2023-07-31,500,Net Banking,Referred by another vet
+321,6,6,1,2024-04-30,500,UPI,Routine visit
+322,58,3,10,2023-11-09,700,Card,Annual checkup
+323,97,3,8,2023-09-16,1000,Net Banking,Post surgery checkup
+324,174,5,14,2024-09-30,2500,Cash,Routine visit
+325,131,6,14,2024-01-19,2550,Card,Post surgery checkup
+326,176,1,8,2023-03-07,1000,Card,First visit
+327,71,3,11,2024-12-29,600,Card,Owner concerned about appetite
+328,39,5,13,2023-09-04,400,Net Banking,First visit
+329,175,2,12,2023-01-27,1000,Net Banking,Post surgery checkup
+330,67,4,7,2024-02-02,8100,Cash,Owner concerned about appetite
+331,88,6,12,2023-08-16,1000,Net Banking,First visit
+332,130,3,14,2023-06-24,2600,UPI,Post surgery checkup
+333,25,4,3,2023-09-22,500,UPI,First visit
+334,168,1,4,2023-12-30,1200,Card,Annual checkup
+335,85,3,5,2024-08-22,1500,Net Banking,Follow-up
+336,121,1,14,2024-10-11,2550,Cash,Emergency
+337,50,5,2,2024-11-28,800,Card,Annual checkup
+338,14,2,3,2023-07-25,400,Net Banking,Emergency
+339,37,3,14,2023-07-04,2450,Net Banking,First visit
+340,162,2,6,2024-10-11,3450,Cash,Emergency
+341,71,2,13,2023-06-22,500,UPI,Emergency
+342,196,1,3,2024-09-21,400,Net Banking,Annual checkup
+343,110,4,7,2023-01-05,7950,UPI,First visit
+344,4,3,13,2024-06-27,450,Cash,Routine visit
+345,161,6,4,2023-08-20,1300,Card,Post surgery checkup
+346,34,1,7,2024-05-30,8050,Card,Vaccination due
+347,17,1,5,2023-10-25,1500,Card,Annual checkup
+348,176,2,6,2024-05-16,3500,UPI,Vaccination due
+349,104,1,4,2023-08-18,1300,UPI,Owner concerned about appetite
+350,188,1,10,2024-05-31,600,Cash,First visit
+351,183,6,13,2023-02-08,450,Card,Referred by another vet
+352,160,1,10,2023-02-19,700,Cash,Routine visit
+353,13,6,2,2024-03-02,800,Net Banking,Follow-up
+354,141,3,8,2024-12-19,1000,UPI,Routine visit
+355,78,4,11,2023-04-14,600,Card,Vaccination due
+356,108,1,9,2024-09-24,650,Card,Follow-up
+357,28,4,4,2024-09-15,1200,Card,Referred by another vet
+358,52,3,12,2024-02-24,900,UPI,Routine visit
+359,141,4,4,2024-12-05,1200,Card,Owner concerned about appetite
+360,1,1,11,2023-04-02,450,Net Banking,Vaccination due
+361,24,5,2,2023-04-14,800,UPI,Emergency
+362,76,3,8,2023-02-21,950,UPI,Routine visit
+363,75,3,13,2024-11-24,450,Net Banking,Follow-up
+364,25,1,1,2023-05-22,600,UPI,First visit
+365,92,4,10,2023-10-02,700,Cash,First visit
+366,88,2,2,2024-02-15,800,Net Banking,Post surgery checkup
+367,99,6,14,2024-05-04,2500,UPI,Follow-up
+368,34,6,12,2023-03-02,900,Cash,Annual checkup
+369,152,4,13,2024-08-05,550,Net Banking,Vaccination due
+370,157,4,13,2024-01-03,500,Cash,Vaccination due
+371,124,4,2,2024-02-26,800,Cash,Follow-up
+372,67,6,6,2023-01-13,3600,UPI,First visit
+373,133,5,12,2024-12-18,950,Cash,Annual checkup
+374,170,6,4,2024-05-08,1200,Net Banking,Vaccination due
+375,143,5,1,2023-01-12,600,UPI,Referred by another vet
+376,121,4,14,2023-06-19,2450,Net Banking,First visit
+377,62,3,5,2023-02-21,1550,UPI,Referred by another vet
+378,165,4,7,2023-08-29,7950,Net Banking,Emergency
+379,147,4,2,2024-05-25,800,Card,Follow-up
+380,128,6,11,2023-01-19,450,Net Banking,Annual checkup
+381,10,5,9,2023-01-01,650,Card,Referred by another vet
+382,144,2,11,2024-11-18,500,Card,First visit
+383,14,2,14,2024-04-10,2500,Net Banking,First visit
+384,184,4,2,2023-04-10,900,UPI,Routine visit
+385,88,3,14,2024-10-10,2500,Card,Follow-up
+386,12,2,8,2023-05-24,1100,Net Banking,Follow-up
+387,66,5,4,2023-07-12,1150,Net Banking,Owner concerned about appetite
+388,118,2,12,2023-12-13,850,Net Banking,Routine visit
+389,163,6,10,2023-05-07,600,Net Banking,Referred by another vet
+390,35,4,1,2024-06-27,600,Cash,Referred by another vet
+391,111,5,8,2024-06-04,1000,UPI,Vaccination due
+392,27,4,11,2024-09-06,550,Card,Referred by another vet
+393,99,4,10,2024-12-10,600,Card,Annual checkup
+394,88,3,8,2023-05-17,1000,Net Banking,Referred by another vet
+395,77,6,9,2023-11-18,800,UPI,Owner concerned about appetite
+396,54,5,12,2023-10-25,1000,Card,Vaccination due
+397,182,6,3,2024-05-30,450,Card,Follow-up
+398,195,3,9,2024-05-06,750,Net Banking,Referred by another vet
+399,74,4,13,2023-01-14,500,Cash,Routine visit
+400,98,2,1,2024-11-17,450,UPI,Post surgery checkup
+401,193,2,5,2024-11-30,1500,UPI,Routine visit
+402,177,3,4,2024-07-08,1150,Card,Emergency
+403,27,5,14,2024-11-22,2600,UPI,Referred by another vet
+404,100,2,9,2024-12-13,700,Cash,Annual checkup
+405,100,4,13,2024-12-02,450,Cash,Routine visit
+406,191,3,4,2024-09-27,1200,UPI,First visit
+407,194,5,9,2024-09-09,700,UPI,Post surgery checkup
+408,115,2,11,2023-03-18,500,UPI,Referred by another vet
+409,31,4,1,2024-03-14,500,Card,Vaccination due
+410,42,5,14,2023-09-19,2450,Card,Emergency
+411,182,2,1,2023-06-07,500,Cash,Post surgery checkup
+412,126,5,9,2024-01-02,650,Card,Referred by another vet
+413,57,2,9,2023-03-11,750,UPI,Annual checkup
+414,140,5,7,2023-04-05,8000,UPI,Owner concerned about appetite
+415,170,3,6,2024-01-05,3500,UPI,Referred by another vet
+416,122,5,14,2024-10-26,2450,Cash,First visit
+417,115,2,11,2024-09-20,550,UPI,Routine visit
+418,175,3,7,2023-04-27,8000,Card,Referred by another vet
+419,186,3,1,2024-06-13,500,Net Banking,Emergency
+420,12,3,11,2023-07-17,500,Cash,Follow-up
+421,43,5,9,2023-01-08,800,Cash,Owner concerned about appetite
+422,172,6,13,2023-08-07,550,Net Banking,Follow-up
+423,53,5,14,2024-12-20,2600,Net Banking,Follow-up
+424,192,6,3,2023-01-25,400,Card,Routine visit
+425,23,1,1,2023-07-02,500,Cash,Owner concerned about appetite
+426,67,4,7,2024-04-06,8100,Net Banking,Annual checkup
+427,81,1,7,2024-11-20,7950,Cash,Follow-up
+428,194,6,10,2023-02-16,700,Cash,First visit
+429,129,1,5,2024-12-03,1500,Cash,Post surgery checkup
+430,196,4,7,2024-02-09,8100,Cash,Emergency
+431,41,5,4,2023-05-20,1300,Net Banking,Referred by another vet
+432,76,6,3,2023-11-02,500,Card,Routine visit
+433,142,5,3,2023-05-07,350,Cash,Annual checkup
+434,138,5,2,2023-11-09,800,Card,Owner concerned about appetite
+435,106,6,14,2024-06-08,2500,UPI,Vaccination due
+436,57,5,14,2023-09-16,2500,Cash,Vaccination due
+437,172,5,14,2023-02-25,2550,Net Banking,Referred by another vet
+438,19,3,11,2023-03-10,500,Cash,Owner concerned about appetite
+439,186,5,8,2023-12-05,1000,UPI,Owner concerned about appetite
+440,26,3,10,2023-03-13,600,Card,Emergency
+441,116,3,10,2024-11-06,600,UPI,First visit
+442,81,4,3,2023-01-05,400,UPI,Owner concerned about appetite
+443,183,6,11,2024-03-22,500,Card,Vaccination due
+444,174,6,6,2024-05-06,3500,Net Banking,First visit
+445,199,3,8,2024-07-18,950,UPI,Follow-up
+446,72,2,9,2023-07-21,700,Cash,Follow-up
+447,5,5,11,2023-02-01,550,Net Banking,Owner concerned about appetite
+448,10,5,5,2024-07-10,1550,Net Banking,Vaccination due
+449,94,4,4,2024-08-26,1300,Card,Vaccination due
+450,119,5,9,2023-04-03,700,Card,Referred by another vet
+451,3,6,4,2024-09-20,1300,UPI,Referred by another vet
+452,36,4,3,2023-07-03,450,UPI,Emergency
+453,92,1,4,2024-05-14,1200,Cash,Post surgery checkup
+454,95,2,1,2024-11-15,500,Card,Annual checkup
+455,121,4,1,2023-02-10,600,Card,Follow-up
+456,181,5,11,2023-10-08,600,Card,Referred by another vet
+457,146,2,7,2024-10-31,8000,Card,Follow-up
+458,133,3,7,2023-08-17,8050,Net Banking,First visit
+459,89,4,13,2024-05-08,500,Cash,Referred by another vet
+460,36,4,3,2023-08-24,350,Card,Owner concerned about appetite
+461,39,2,3,2024-01-06,450,Cash,Owner concerned about appetite
+462,107,3,12,2023-04-27,900,Net Banking,Emergency
+463,54,5,3,2024-10-24,400,Cash,Owner concerned about appetite
+464,12,2,10,2024-08-29,600,UPI,Referred by another vet
+465,11,5,3,2023-02-27,400,Card,Vaccination due
+466,133,4,10,2024-07-31,700,Cash,Post surgery checkup
+467,22,2,8,2024-09-13,1000,Net Banking,Vaccination due
+468,57,4,10,2023-05-27,650,UPI,Referred by another vet
+469,68,2,12,2024-12-03,900,Net Banking,Follow-up
+470,59,4,7,2023-05-16,7950,Cash,Owner concerned about appetite
+471,134,5,11,2024-03-05,500,Cash,Vaccination due
+472,122,5,10,2023-02-09,650,Cash,Follow-up
+473,124,6,3,2024-09-09,450,Cash,Annual checkup
+474,134,4,6,2023-02-14,3600,Net Banking,Owner concerned about appetite
+475,124,4,6,2024-08-26,3600,Cash,Annual checkup
+476,35,3,8,2023-08-27,950,Card,Referred by another vet
+477,105,3,4,2023-01-06,1300,Cash,Referred by another vet
+478,31,5,1,2024-01-20,600,UPI,First visit
+479,105,3,2,2023-06-08,800,Card,Post surgery checkup
+480,138,4,10,2024-01-10,650,Card,Annual checkup
+481,194,2,7,2024-07-19,8050,Net Banking,Vaccination due
+482,95,5,9,2024-05-10,700,Card,First visit
+483,199,6,7,2023-05-22,8100,Cash,Owner concerned about appetite
+484,115,6,3,2023-04-13,400,Net Banking,First visit
+485,141,5,12,2024-12-01,1000,Cash,Vaccination due
+486,100,6,1,2023-04-04,500,Net Banking,Annual checkup
+487,23,1,5,2023-08-16,1500,Cash,Routine visit
+488,186,4,7,2024-09-20,8100,Card,Routine visit
+489,199,2,11,2024-05-21,500,Cash,Owner concerned about appetite
+490,169,5,5,2023-07-19,1450,UPI,Vaccination due
+491,173,1,6,2023-09-02,3600,Cash,Vaccination due
+492,23,3,13,2024-02-14,450,Net Banking,Annual checkup
+493,151,2,9,2023-01-16,800,Cash,Follow-up
+494,141,3,12,2024-07-26,950,Card,First visit
+495,71,2,10,2023-07-19,600,Net Banking,Routine visit
+496,67,2,7,2024-06-02,7950,Cash,Referred by another vet
+497,76,3,2,2024-06-09,800,Card,Emergency
+498,97,5,8,2023-09-07,1000,Net Banking,Emergency
+499,151,1,8,2023-04-30,1000,Cash,Annual checkup
+500,163,2,11,2024-12-19,500,Card,Annual checkup
+501,91,5,9,2023-01-10,800,Card,Owner concerned about appetite
+502,74,1,7,2024-11-20,8100,Card,Follow-up
+503,142,2,8,2023-11-18,1000,UPI,Post surgery checkup
+504,47,6,11,2023-07-14,500,UPI,Owner concerned about appetite
+505,189,2,14,2023-09-29,2500,UPI,Owner concerned about appetite
+506,64,5,6,2023-06-09,3450,Cash,Follow-up
+507,174,6,8,2024-09-20,950,Cash,Emergency
+508,96,5,6,2024-05-19,3550,Card,Emergency
+509,47,5,5,2024-02-12,1500,UPI,Routine visit
+510,135,4,8,2024-07-07,950,Card,Annual checkup
+511,176,2,8,2023-05-04,1100,Net Banking,First visit
+512,177,1,1,2024-11-21,500,Net Banking,Follow-up
+513,84,3,10,2023-09-23,600,Card,Owner concerned about appetite
+514,69,4,10,2023-12-18,600,UPI,Emergency
+515,109,2,7,2024-12-18,8000,Card,Annual checkup
+516,72,4,3,2024-08-08,400,UPI,Follow-up
+517,185,3,13,2023-08-30,500,Net Banking,Annual checkup
+518,51,2,13,2023-06-03,450,Cash,Vaccination due
+519,108,4,3,2024-10-07,450,Card,Emergency
+520,77,3,9,2024-08-04,650,Net Banking,Follow-up
+521,177,2,1,2023-08-09,500,Net Banking,Follow-up
+522,116,6,6,2023-09-24,3500,Card,Referred by another vet
+523,143,3,6,2023-01-21,3500,Cash,First visit
+524,174,5,4,2024-08-13,1250,UPI,Post surgery checkup
+525,91,3,11,2024-06-06,500,Net Banking,Follow-up
+526,98,5,5,2024-04-19,1600,UPI,Vaccination due
+527,164,3,7,2024-10-08,8050,Net Banking,Follow-up
+528,21,2,6,2023-08-22,3500,Card,Post surgery checkup
+529,182,3,10,2024-10-22,600,Card,Emergency
+530,200,3,12,2024-08-24,950,Net Banking,Annual checkup
+531,43,2,14,2023-01-24,2500,UPI,Post surgery checkup
+532,191,6,12,2023-03-23,900,UPI,Annual checkup
+533,27,1,2,2024-04-29,850,Cash,Routine visit
+534,198,4,9,2023-03-27,650,Card,Vaccination due
+535,22,6,7,2023-11-13,8000,UPI,Post surgery checkup
+536,114,6,3,2023-05-15,450,UPI,Routine visit
+537,9,6,6,2023-11-30,3500,Net Banking,Referred by another vet
+538,70,5,8,2023-05-19,1100,UPI,Emergency
+539,162,6,11,2024-07-31,500,Card,First visit
+540,124,5,4,2023-04-02,1200,Card,First visit
+541,106,3,3,2023-11-07,350,Cash,Referred by another vet
+542,195,2,6,2023-10-21,3500,Cash,Emergency
+543,194,4,5,2023-01-10,1500,Card,Owner concerned about appetite
+544,2,5,6,2023-07-13,3500,Net Banking,Annual checkup
+545,64,2,12,2024-10-23,900,Net Banking,Owner concerned about appetite
+546,68,1,7,2024-10-02,8000,Card,Post surgery checkup
+547,167,6,9,2023-10-03,700,UPI,Follow-up
+548,47,2,5,2023-04-24,1600,Net Banking,Emergency
+549,70,6,10,2024-05-18,600,Card,Routine visit
+550,39,1,9,2023-01-23,700,Cash,Post surgery checkup
+551,69,2,12,2024-03-24,1000,Cash,Owner concerned about appetite
+552,24,2,1,2024-05-20,500,Card,Annual checkup
+553,80,4,6,2024-04-19,3600,Cash,First visit
+554,21,2,1,2023-09-30,500,Cash,Referred by another vet
+555,121,2,4,2023-09-14,1200,Cash,Follow-up
+556,197,6,4,2024-01-30,1200,UPI,Routine visit
+557,51,4,12,2023-04-07,950,UPI,Emergency
+558,100,6,5,2023-11-27,1500,Cash,Referred by another vet
+559,134,1,5,2024-05-07,1600,Card,Owner concerned about appetite
+560,93,1,14,2024-11-13,2500,Cash,Owner concerned about appetite
+561,163,4,6,2023-01-16,3500,Card,Follow-up
+562,102,2,1,2023-02-13,550,Net Banking,Vaccination due
+563,96,1,4,2023-06-11,1200,Cash,First visit
+564,195,6,1,2023-03-03,500,UPI,Referred by another vet
+565,28,2,8,2023-08-27,1000,Card,Emergency
+566,188,2,1,2024-12-06,500,Card,Vaccination due
+567,65,1,8,2024-12-24,1000,Card,Referred by another vet
+568,179,4,4,2024-08-03,1200,Card,First visit
+569,188,4,5,2024-09-05,1550,UPI,Follow-up
+570,136,2,8,2023-10-30,1000,Card,Emergency
+571,1,6,9,2024-01-24,800,UPI,Routine visit
+572,159,3,13,2024-09-27,450,Card,Follow-up
+573,169,5,14,2024-02-01,2500,Net Banking,Referred by another vet
+574,40,5,5,2023-11-27,1500,Card,Follow-up
+575,25,5,11,2023-03-10,450,UPI,Vaccination due
+576,9,2,2,2024-05-12,800,Cash,Routine visit
+577,147,6,14,2024-02-02,2600,Net Banking,Referred by another vet
+578,160,6,10,2023-09-20,550,Card,Owner concerned about appetite
+579,156,6,2,2023-01-14,800,Net Banking,Follow-up
+580,120,6,1,2024-01-05,550,Net Banking,First visit
+581,182,1,14,2024-09-23,2500,Cash,Follow-up
+582,78,1,4,2024-06-15,1150,Cash,Owner concerned about appetite
+583,137,4,4,2023-07-17,1250,UPI,Vaccination due
+584,143,6,9,2024-03-01,800,Cash,First visit
+585,173,4,12,2024-11-12,900,Cash,Vaccination due
+586,47,5,7,2024-05-31,8000,UPI,Referred by another vet
+587,154,4,6,2023-11-19,3550,Card,First visit
+588,106,6,7,2023-11-28,8050,UPI,Referred by another vet
+589,55,4,13,2024-07-17,550,Card,First visit
+590,116,4,7,2023-01-01,8100,Cash,Post surgery checkup
+591,153,1,9,2023-05-19,700,Cash,Post surgery checkup
+592,57,2,14,2023-11-19,2450,Card,Referred by another vet
+593,131,5,10,2024-08-08,600,Cash,Routine visit
+594,118,3,3,2023-05-22,400,Card,Owner concerned about appetite
+595,60,3,13,2023-11-04,400,Net Banking,Owner concerned about appetite
+596,188,1,12,2023-11-29,900,UPI,Emergency
+597,177,6,10,2023-04-08,650,Card,Routine visit
+598,188,5,7,2023-03-22,7950,Card,First visit
+599,112,4,14,2023-05-04,2500,Cash,Annual checkup
+600,14,3,9,2023-02-12,700,UPI,First visit

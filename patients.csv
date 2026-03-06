@@ -1,0 +1,201 @@
+patient_id,pet_name,pet_type,breed,age_years,gender,owner_id
+1,Buddy,Dog,Indie,8.8,Female,33
+2,Buddy,Turtle,Red-eared Slider,7.3,Male,22
+3,Oreo,Cat,Siamese,2.6,Female,98
+4,Tiger,Dog,Beagle,4.4,Female,72
+5,Simba,Rabbit,Dutch,10.1,Female,5
+6,Kitty,Rabbit,Holland Lop,3.1,Male,11
+7,Coco,Rabbit,Holland Lop,10.2,Male,62
+8,Bella,Dog,Indie,7.0,Male,120
+9,Milo,Cat,Bengal,7.5,Male,42
+10,Fluffy,Turtle,Red-eared Slider,0.8,Female,148
+11,Buddy,Cat,Maine Coon,11.3,Male,20
+12,Bella,Cat,Siamese,8.5,Female,31
+13,Luna,Rabbit,Angora,4.5,Female,95
+14,Tiger,Dog,Indie,0.6,Female,126
+15,Zara,Dog,German Shepherd,10.8,Female,40
+16,Zara,Cat,Indie,3.6,Female,120
+17,Simba,Cat,Indie,4.2,Male,23
+18,Rocky,Dog,Beagle,9.1,Female,87
+19,Milo,Dog,German Shepherd,6.1,Female,67
+20,Tommy,Dog,Pug,10.6,Male,133
+21,Rocky,Hamster,Syrian,8.8,Female,143
+22,Ginger,Rabbit,Angora,7.9,Female,115
+23,Daisy,Rabbit,Holland Lop,3.0,Male,79
+24,Ginger,Cat,Bengal,6.9,Female,109
+25,Kitty,Turtle,Box Turtle,8.6,Female,79
+26,Stella,Dog,Labrador,2.7,Male,138
+27,Coco,Turtle,Red-eared Slider,3.0,Female,71
+28,Leo,Rabbit,Angora,3.8,Male,50
+29,Milo,Dog,German Shepherd,4.0,Male,71
+30,Pepper,Dog,Labrador,3.9,Male,126
+31,Fluffy,Dog,Labrador,3.8,Female,113
+32,Simba,Dog,Labrador,11.3,Female,30
+33,Ginger,Parrot,Cockatiel,1.4,Male,39
+34,Daisy,Dog,Pug,1.5,Male,31
+35,Leo,Cat,Maine Coon,7.4,Male,134
+36,Daisy,Dog,Beagle,10.4,Female,79
+37,Leo,Cat,Persian,11.5,Male,54
+38,Roxy,Cat,Bengal,1.4,Male,45
+39,Bruno,Cat,Siamese,5.2,Female,75
+40,Tommy,Dog,German Shepherd,3.8,Female,19
+41,Zara,Cat,Bengal,7.3,Male,109
+42,Zara,Dog,Golden Retriever,2.2,Female,37
+43,Daisy,Dog,Golden Retriever,7.3,Female,113
+44,Daisy,Dog,Indie,8.5,Female,129
+45,Max,Cat,Maine Coon,7.4,Female,83
+46,Max,Cat,Persian,3.1,Male,69
+47,Ginger,Cat,Siamese,6.5,Female,72
+48,Nemo,Dog,Pug,7.8,Female,24
+49,Tiger,Cat,Maine Coon,4.2,Male,42
+50,Ginger,Dog,Indie,3.8,Female,141
+51,Tiger,Dog,Labrador,3.4,Male,104
+52,Roxy,Parrot,Budgerigar,10.5,Female,106
+53,Kitty,Dog,Pug,7.7,Female,114
+54,Simba,Rabbit,Holland Lop,6.8,Female,113
+55,Bella,Hamster,Dwarf,0.8,Male,41
+56,Pepper,Dog,Labrador,5.2,Male,30
+57,Zara,Cat,Persian,10.1,Female,75
+58,Nemo,Cat,Bengal,10.1,Female,63
+59,Buddy,Cat,Siamese,2.7,Male,18
+60,Tiger,Dog,Beagle,11.2,Female,1
+61,Fluffy,Dog,German Shepherd,7.2,Female,39
+62,Kitty,Cat,Maine Coon,4.3,Female,117
+63,Tommy,Hamster,Syrian,3.2,Female,60
+64,Luna,Parrot,Cockatiel,4.2,Female,98
+65,Zara,Dog,Indie,11.8,Female,10
+66,Tiger,Dog,Pug,10.5,Female,26
+67,Bruno,Cat,Maine Coon,8.8,Female,40
+68,Tiger,Dog,German Shepherd,7.7,Female,21
+69,Pepper,Parrot,Macaw,4.9,Female,125
+70,Leo,Parrot,Budgerigar,1.3,Female,59
+71,Bella,Rabbit,Dutch,9.2,Male,114
+72,Bruno,Dog,German Shepherd,1.0,Male,76
+73,Charlie,Dog,Beagle,3.3,Female,145
+74,Milo,Cat,Siamese,2.5,Female,62
+75,Charlie,Cat,Indie,3.2,Female,118
+76,Oreo,Dog,Labrador,10.9,Male,19
+77,Fluffy,Cat,Bengal,3.9,Female,65
+78,Coco,Cat,Bengal,12.0,Female,28
+79,Kitty,Dog,Pug,7.1,Female,6
+80,Simba,Turtle,Box Turtle,0.6,Male,128
+81,Rocky,Parrot,Cockatiel,7.5,Female,57
+82,Simba,Cat,Indie,8.3,Male,25
+83,Daisy,Hamster,Syrian,9.6,Male,149
+84,Max,Dog,Golden Retriever,11.0,Female,107
+85,Pepper,Dog,Golden Retriever,10.6,Female,136
+86,Milo,Cat,Bengal,3.5,Female,76
+87,Bella,Rabbit,Dutch,5.9,Male,37
+88,Roxy,Rabbit,Holland Lop,8.8,Female,143
+89,Bruno,Dog,Beagle,3.5,Male,117
+90,Roxy,Dog,Indie,3.5,Female,96
+91,Ginger,Dog,Golden Retriever,0.8,Female,57
+92,Tommy,Cat,Maine Coon,4.0,Female,30
+93,Daisy,Dog,Labrador,12.0,Male,25
+94,Charlie,Dog,Pug,5.0,Female,139
+95,Nemo,Cat,Siamese,8.0,Female,105
+96,Luna,Hamster,Dwarf,8.4,Male,114
+97,Kitty,Cat,Siamese,1.6,Female,140
+98,Luna,Hamster,Dwarf,5.1,Male,32
+99,Max,Hamster,Dwarf,8.1,Male,13
+100,Charlie,Rabbit,Holland Lop,9.6,Male,18
+101,Coco,Parrot,Macaw,7.2,Male,85
+102,Bruno,Rabbit,Angora,3.7,Male,34
+103,Bella,Cat,Siamese,8.1,Male,34
+104,Fluffy,Dog,Golden Retriever,4.2,Male,68
+105,Nemo,Dog,Indie,6.5,Male,122
+106,Shadow,Cat,Bengal,7.3,Female,129
+107,Luna,Dog,Pug,8.9,Female,118
+108,Luna,Cat,Persian,12.0,Female,110
+109,Tommy,Cat,Maine Coon,11.0,Male,21
+110,Max,Dog,Golden Retriever,2.0,Female,98
+111,Oreo,Turtle,Box Turtle,6.3,Female,26
+112,Zara,Rabbit,Holland Lop,8.0,Male,111
+113,Nemo,Cat,Siamese,4.4,Female,103
+114,Tiger,Cat,Persian,5.4,Female,96
+115,Max,Turtle,Box Turtle,1.5,Male,24
+116,Charlie,Cat,Bengal,6.9,Female,32
+117,Stella,Cat,Maine Coon,1.1,Female,80
+118,Shadow,Dog,Pug,2.9,Female,58
+119,Pepper,Parrot,Cockatiel,4.7,Female,147
+120,Pepper,Dog,Beagle,11.7,Male,69
+121,Tommy,Dog,German Shepherd,9.3,Female,90
+122,Fluffy,Dog,Golden Retriever,8.1,Male,37
+123,Max,Rabbit,Holland Lop,9.1,Male,97
+124,Milo,Cat,Bengal,4.8,Female,146
+125,Charlie,Cat,Persian,2.3,Male,21
+126,Nemo,Dog,Indie,6.1,Female,107
+127,Bella,Dog,Pug,4.5,Male,73
+128,Ginger,Cat,Indie,6.6,Female,12
+129,Luna,Dog,Pug,0.6,Female,55
+130,Daisy,Rabbit,Dutch,4.3,Male,128
+131,Charlie,Rabbit,Holland Lop,4.9,Male,129
+132,Max,Cat,Bengal,5.1,Male,112
+133,Tiger,Dog,Labrador,7.1,Female,107
+134,Bruno,Dog,Beagle,11.6,Male,118
+135,Max,Parrot,Cockatiel,5.5,Male,63
+136,Shadow,Cat,Maine Coon,1.4,Female,87
+137,Max,Dog,Golden Retriever,6.4,Male,136
+138,Kitty,Cat,Bengal,8.9,Male,61
+139,Coco,Dog,German Shepherd,2.5,Male,20
+140,Ginger,Dog,Indie,5.8,Female,145
+141,Tiger,Cat,Indie,10.4,Female,39
+142,Oreo,Cat,Maine Coon,7.8,Female,15
+143,Daisy,Dog,Labrador,5.8,Male,15
+144,Max,Dog,German Shepherd,7.9,Male,130
+145,Pepper,Dog,Pug,11.5,Male,116
+146,Tiger,Hamster,Syrian,7.5,Male,16
+147,Tommy,Cat,Bengal,1.5,Male,11
+148,Oreo,Dog,Beagle,6.5,Male,94
+149,Buddy,Dog,German Shepherd,5.2,Female,14
+150,Tiger,Rabbit,Angora,1.3,Male,143
+151,Simba,Cat,Bengal,8.8,Male,86
+152,Charlie,Dog,Indie,11.0,Female,101
+153,Max,Dog,Indie,4.1,Female,85
+154,Tommy,Parrot,Macaw,10.0,Male,109
+155,Kitty,Cat,Persian,4.1,Male,88
+156,Coco,Hamster,Dwarf,3.1,Male,40
+157,Shadow,Dog,Labrador,9.4,Male,87
+158,Charlie,Parrot,Macaw,7.4,Male,42
+159,Leo,Dog,Indie,9.8,Male,113
+160,Roxy,Dog,German Shepherd,8.8,Female,73
+161,Rocky,Rabbit,Dutch,6.6,Female,121
+162,Kitty,Hamster,Syrian,8.3,Female,119
+163,Shadow,Rabbit,Dutch,6.6,Male,52
+164,Simba,Parrot,Budgerigar,1.1,Female,96
+165,Tommy,Cat,Persian,10.2,Male,73
+166,Simba,Dog,Golden Retriever,5.7,Male,112
+167,Oreo,Dog,Golden Retriever,10.7,Male,107
+168,Kitty,Dog,Pug,3.2,Male,96
+169,Bella,Dog,German Shepherd,10.2,Female,38
+170,Ginger,Dog,German Shepherd,8.5,Male,121
+171,Max,Cat,Persian,0.7,Male,39
+172,Shadow,Cat,Indie,5.4,Female,61
+173,Rocky,Dog,Labrador,5.3,Female,17
+174,Leo,Dog,Beagle,6.7,Male,37
+175,Leo,Dog,Labrador,4.6,Female,48
+176,Shadow,Cat,Persian,11.7,Male,135
+177,Pepper,Cat,Indie,0.7,Female,12
+178,Simba,Cat,Bengal,9.1,Female,18
+179,Roxy,Dog,Indie,7.7,Female,35
+180,Tiger,Dog,Pug,9.9,Male,119
+181,Zara,Turtle,Box Turtle,2.6,Male,17
+182,Luna,Rabbit,Dutch,3.9,Male,52
+183,Daisy,Hamster,Dwarf,6.4,Female,65
+184,Coco,Dog,Indie,3.8,Male,85
+185,Nemo,Dog,German Shepherd,10.7,Female,99
+186,Ginger,Dog,Golden Retriever,8.5,Female,133
+187,Stella,Dog,Labrador,5.4,Female,47
+188,Bella,Cat,Bengal,1.4,Female,79
+189,Milo,Cat,Maine Coon,8.4,Female,115
+190,Leo,Dog,German Shepherd,12.0,Female,15
+191,Buddy,Dog,Indie,4.7,Male,8
+192,Roxy,Dog,Pug,9.5,Male,33
+193,Kitty,Dog,Indie,4.7,Male,40
+194,Kitty,Cat,Bengal,5.6,Male,147
+195,Buddy,Dog,German Shepherd,4.1,Female,64
+196,Stella,Turtle,Red-eared Slider,2.6,Female,144
+197,Tommy,Dog,German Shepherd,5.6,Female,126
+198,Max,Dog,Golden Retriever,5.7,Female,23
+199,Roxy,Parrot,Cockatiel,4.5,Male,141
+200,Milo,Cat,Bengal,8.7,Male,93
